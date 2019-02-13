@@ -1,0 +1,7 @@
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\bin\Debug\Product217.exe.config
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\bin\Debug\Product217.exe
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\bin\Debug\Product217.pdb
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\obj\Debug\Product217.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\obj\Debug\Product217.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\obj\Debug\Product217.exe
+C:\Users\Otavio\Desktop\curso 2\Product217\Product217\obj\Debug\Product217.pdb
